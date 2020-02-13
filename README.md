@@ -1,2 +1,2 @@
-# nodedatabase
+# node-sql-database
 Node SQL Database

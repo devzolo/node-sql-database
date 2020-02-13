@@ -1,0 +1,13 @@
+coverage
+node_modules
+src
+.editorconfig
+.eslintrc.js
+.gitignore
+.prettierrc.js
+jest.config.js
+*.db
+tsconfig.json
+yarn.lock
+.env
+.env.test
